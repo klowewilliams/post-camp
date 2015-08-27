@@ -1,5 +1,5 @@
 #Problem:
-# Change the above case statement so it returns 'low number' if given 'one' 'two' or 'three' and high number if given 'four' or 'five'.
+# Create another case statement that will tell you if what's given is a string with only numbers, or only letters, or neither any letters or numbers.
 
 #####SOLUTION #########
 
@@ -13,5 +13,3 @@ when "four", "five"
 else
   puts "That is not a number between one and five!"
 end
-
-#Multi-Value When
